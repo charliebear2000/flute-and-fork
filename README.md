@@ -1,7 +1,15 @@
-# Cocktail-Generator
+# Flute and Fork
 ***
+![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## General Info
+## Table of Contents
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [Website](#website)
+- [License](#license)
+- [Creators](#creators)
+
+## Description
 This is the first group project for my coding bootcamp. I had to work with two other classmates to fulfill the following requirements:
 
 * Use a CSS framework other than Bootstrap.
@@ -15,7 +23,7 @@ This is the first group project for my coding bootcamp. I had to work with two o
 * Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id-naming conventions, indentation, quality comments, etc.).
 * Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
-### Technologies Used
+## Technologies Used
 
 * CocktailDB API
 * Tasy API
@@ -23,11 +31,25 @@ This is the first group project for my coding bootcamp. I had to work with two o
 * Google fonts
 * Google Draw and 3D Paint to create the logo
 
-#### Screenshot
-![Courtney Koehler Cocktail-Generator Website](https://github.com/ckoehler16/Cocktail-Generator/blob/main/Screenshot.png?raw=true)
-
-##### URL
+## Website
 https://ckoehler16.github.io/Cocktail-Generator/
 
-###### Contributors
-Courtney Koehler, Chris Porter, Amy Rawls
+## License
+
+MIT License
+
+For more information about this license go to: [MIT License](http://choosealicense.com/licenses/mit/)
+
+## Creators
+
+- Amy Rawls
+    - GitHub: [charliebear2000](https://github.com/charliebear2000)
+    - :mailbox_with_mail: email: amyrawls@yahoo.com
+- Chris Porter
+    - GitHub: [ChrisPorter87](https://github.com/ChrisPorter87)
+    - :mailbox_with_mail: email: cap8095@gmail.com 
+- Courtney Koehler
+    - GitHub: [ckoehler16](https://github.com/ckoehler16)
+    - :mailbox_with_mail: email: ckoehler16@gmail.com
+
+  Please contact us with any questions you might have.
