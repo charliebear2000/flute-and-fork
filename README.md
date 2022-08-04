@@ -23,6 +23,8 @@ This is the first group project for my coding bootcamp. I had to work with two o
 * Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id-naming conventions, indentation, quality comments, etc.).
 * Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
+![Screenshot](https://github.com/charliebear2000/flute-and-fork/blob/main/Screenshot.png)
+
 ## Technologies Used
 
 * CocktailDB API
@@ -32,7 +34,7 @@ This is the first group project for my coding bootcamp. I had to work with two o
 * Google Draw and 3D Paint to create the logo
 
 ## Website
-https://ckoehler16.github.io/Cocktail-Generator/
+You can find the live website on [GitHub](https://charliebear2000.github.io/flute-and-fork/).
 
 ## License
 
